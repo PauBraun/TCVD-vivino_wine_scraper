@@ -6,7 +6,7 @@ Projecte de web scraping per extreure dades de vins de Vivino.com. Desenvolupat 
 
 ## DOI del dataset
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19473017.svg)](https://doi.org/10.5281/zenodo.19473017)
 
 ## Descripció
 
